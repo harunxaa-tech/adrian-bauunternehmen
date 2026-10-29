@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.adrian-bauunternehmen.de/</loc>
-  </url>
+  <url><loc>https://www.adrian-bauunternehmen.de/</loc></url>
+  <url><loc>https://www.adrian-bauunternehmen.de/bauprojektkoordination.html</loc></url>
+  <url><loc>https://www.adrian-bauunternehmen.de/erdarbeiten.html</loc></url>
+  <url><loc>https://www.adrian-bauunternehmen.de/trockenbau-innenausbau.html</loc></url>
+  <url><loc>https://www.adrian-bauunternehmen.de/garten-landschaftsbau.html</loc></url>
+  <url><loc>https://www.adrian-bauunternehmen.de/aussenanlagen.html</loc></url>
+  <url><loc>https://www.adrian-bauunternehmen.de/ratgeber.html</loc></url>
+  <url><loc>https://www.adrian-bauunternehmen.de/ratgeber-erdarbeiten-kosten.html</loc></url>
+  <url><loc>https://www.adrian-bauunternehmen.de/ratgeber-trockenbau.html</loc></url>
+  <url><loc>https://www.adrian-bauunternehmen.de/ratgeber-aussenanlagen.html</loc></url>
 </urlset>
